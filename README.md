@@ -8,7 +8,7 @@ All components of Prismriver are written in OCaml for its sturdiness, speed, ele
 
 ----
 
-### Lyrica
+### [Lyrica](https://github.com/rein/lyrica)
 A safe, comprehensible and efficient PID 1.
 
 ### Merlin
