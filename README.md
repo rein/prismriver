@@ -21,3 +21,5 @@ A sensible and clean device manager.
 ## Goal
 The aim of the Prismriver project is to create a simple and easily deployable initialization system for *NIX operating systems.
 We believe in Init Freedom.
+
+<img src="img/if-big.png" height="211" width="149">
