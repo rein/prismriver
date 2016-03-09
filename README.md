@@ -8,10 +8,10 @@ All components of Prismriver are written in OCaml for its sturdiness, speed, ele
 
 ----
 
-### [Lyrica](https://github.com/rein/lyrica)
+### [Lyrica](https://github.com/rxse/lyrica)
 A safe, comprehensible and efficient PID 1.
 
-### Layla
+### [Layla](https://github.com/rxse/layla)
 A reliable, simple and sane service manager. Formerly called "Merlin", however this was changed due to concern over a name clash with an unrelated project.
 
 ### Lunasa
